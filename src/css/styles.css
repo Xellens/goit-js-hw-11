@@ -35,9 +35,7 @@
     transform: rotate(360deg);
   }
 }
-.is-hidden {
-  display: none;
-}
+
 .gallery-section {
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
@@ -172,12 +170,6 @@
   left: 50%;
   transform: translateX(-50%);
 }
-.loader-box {
-  position: absolute;
-  bottom: -40px;
-  left: 50%;
-  transform: translateX(-50%);
-}
 
 @media only screen and (max-width: 1024px) {
   .container {
@@ -207,9 +199,6 @@
   }
 }
 
-.is-hidden {
-  display: none;
-}
 .gallery-section {
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
